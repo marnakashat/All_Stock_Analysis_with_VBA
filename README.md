@@ -19,30 +19,30 @@ We obtained an elapsed run time for each year, which is listed below our results
 
 ## Results
 
--In order for Steve to analyze a larger dataset quickly, we refactored the scripts to run more quickly in VBA
+>-In order for Steve to analyze a larger dataset quickly, we refactored the scripts to run more quickly in VBA
 
--Containing these newly constructed macros, the table with an analysis for each year is easily visible
+>-Containing these newly constructed macros, the table with an analysis for each year is easily visible
 
--The analysis can be conducted for any year using updated macros
+>-The analysis can be conducted for any year using updated macros
 
 ## Summary
 
 ### Advantages of Refactoring codes
 
--The run time of the macros is shortened by code refactoring.
+>-The run time of the macros is shortened by code refactoring.
 
--It makes it simpler for future users to comprehend and read the code.
+>-It makes it simpler for future users to comprehend and read the code.
 
--Refactoring the code makes adding new features simpler and reduces the chances of future issues.
+>-Refactoring the code makes adding new features simpler and reduces the chances of future issues.
 
->**Disadvantages of Refactoring Codes**
+### Disadvantages of Refactoring Codes
 
--Testing results may be impacted by the refactoring process
+>-Testing results may be impacted by the refactoring process
 
--Refactoring larger, more complex codes could be challenging.
+>-Refactoring larger, more complex codes could be challenging.
 
--Refactoring codes could be very time-consuming.The time it might take to finish the process might be unknown to you and take you on a path that would lead you to  no where.
+>-Refactoring codes could be very time-consuming.The time it might take to finish the process might be unknown to you and take you on a path that would lead you to  no where.
 
 ### Advantages & Disadvantages of the original and refactored VBA script
 
--A code that is arranged precisely is always simple to alter, comprehend, and maintain. You want a code that is clean and not cluttered. Paying close attention to the details early on in the refactoring process will help you prevent problems later.
+>-A code that is arranged precisely is always simple to alter, comprehend, and maintain. You want a code that is clean and not cluttered. Paying close attention to the details early on in the refactoring process will help you prevent problems later.
