@@ -18,8 +18,11 @@ We obtained an elapsed run time for each year, which is listed below our results
 ![2018 Timer](https://user-images.githubusercontent.com/107198518/175452366-7ef9a6ea-6a95-4f7b-b7d4-ac979a8f3766.png)
 
 ## Results
+
 -In order for Steve to analyze a larger dataset quickly, we refactored the scripts to run more quickly in VBA
+
 -Containing these newly constructed macros, the table with an analysis for each year is easily visible
+
 -The analysis can be conducted for any year using updated macros
 
 ## Summary
@@ -31,7 +34,6 @@ We obtained an elapsed run time for each year, which is listed below our results
 -It makes it simpler for future users to comprehend and read the code.
 
 -Refactoring the code makes adding new features simpler and reduces the chances of future issues.
--
 
 ### Disadvantages of Refactoring Codes
 
