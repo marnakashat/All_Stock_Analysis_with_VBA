@@ -35,7 +35,7 @@ We obtained an elapsed run time for each year, which is listed below our results
 
 -Refactoring the code makes adding new features simpler and reduces the chances of future issues.
 
-### **Disadvantages of Refactoring Codes**
+**Disadvantages of Refactoring Codes**
 
 -Testing results may be impacted by the refactoring process
 
