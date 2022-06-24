@@ -5,7 +5,8 @@
 >To complete the objective, we will "refactor" or modify the All Stock Analysis Dataset by adding initial VBA starter code that loops through all the data. We'll find out if the VBA starter code refactoring succeeded in making the VBA script execute more rapidly. By lowering the number of actions the code does, utilizing less memory, or enhancing its logic to make it clearer, we wish to boost the code's efficiency in this challenge.
 
 ### Refactored VBA Code
->Using our skills we learned with VBA, in this challenge you must "refactor" or edit the starter code provided in  to loop through all the data and collect the information needed. You'll then will be able to tell whether effectively restructuring your code made the VBA script run faster. It runs more quickly now that I have refactored the code below.
+>Using our skills we learned with VBA, in this challenge you must "refactor" or edit the starter code provided in  to loop through all the data and collect the information needed. 
+>You'll then will be able to tell whether effectively restructuring your code made the VBA script run faster. It runs more quickly now that I have refactored the code below.
 
 ![refactored code 1](https://user-images.githubusercontent.com/107198518/175452124-f30fc7ed-9754-4e44-bac2-4e0da656c002.png)
 ![refactored code 2](https://user-images.githubusercontent.com/107198518/175452134-9f786324-6d57-4342-a863-2e2438feba5a.png)
