@@ -1,5 +1,5 @@
 # Stock Analysis with VBA
->Analyzing data with VBA to investigate the performance of green stocks
+Analyzing data with VBA to investigate the performance of green stocks
 
 ## Overview of Project
 >To complete the objective, we will "refactor" or modify the All Stock Analysis Dataset by adding initial VBA starter code that loops through all the data. We'll find out if the VBA starter code refactoring succeeded in making the VBA script execute more rapidly. By lowering the number of actions the code does, utilizing less memory, or enhancing its logic to make it clearer, we wish to boost the code's efficiency in this challenge.
